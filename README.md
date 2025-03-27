@@ -1,6 +1,6 @@
 this was the project statement i got and above is the read me file of the project i made, write a proper long documentation process of the building process and everything, i don't have all the deatils rn, make up stuff according to the read me file, like error faced, how i faced them, how i fixed them and some errors i couldn't fix. HEre is the read me file - # AI Resume & Job Matcher with Multi-Step Function Calling
 
-![Project Banner](https://via.placeholder.com/1200x400.png?text=AI+Resume+%26+Job+Matcher) <!-- Add actual banner image -->
+<!-- Add actual banner image -->
 
 An intelligent system that leverages Large Language Models (LLMs) to analyze resumes, match candidates with job opportunities, and generate personalized application materials.
 
